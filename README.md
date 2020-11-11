@@ -1,7 +1,7 @@
 # **Tag Cloud**
 
 ## **Description**
-Create a Tag Cloud using this tool where the tag size is depicted with the frequency of the word.
+Create a Tag Cloud using this page where the tag size is depicted with the frequency of the word.
 
 ## UI Flow
 - It has a view with text-area as input for the body of text that will be used in the tag cloud and a button to trigger the rendering of the tag cloud.
