@@ -1,0 +1,11 @@
+.cloud {
+  margin: 0px auto;
+  text-align: center;
+  background-color: black;
+  padding:1%;
+}
+  .cloud div {
+    display: inline-block;
+    margin-right: 0.4%;
+  }
+  

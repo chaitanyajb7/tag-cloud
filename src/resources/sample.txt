@@ -1,0 +1,20 @@
+What is Nutanix Enterprise Cloud?
+Nutanix Enterprise Cloud combines the agility and simplicity of the public cloud, with the security
+and control you need in a private cloud. Built on the industry’s leading hyperconverged
+infrastructure (HCI) technology, it integrates compute, storage, virtualization and networking in a
+full-stack solution that runs nearly any application.
+Why Nutanix?
+Only Nutanix delivers a single software OS that runs across clouds, making the boundaries
+between private, public and distributed clouds invisible. Nutanix solutions combine web-scale
+engineering with consumer-grade management to power any workload in multi-cloud
+environments.
+ONE-CLICK SIMPLICITY
+Reduce complex IT tasks to a single click, and lessen dependence on IT specialists.
+100% SOFTWARE
+Manage one OS across multiple hardware platforms and all IT locations.
+FREEDOM OF CHOICE
+Pick the hardware, hypervisor and cloud that is best for your business.
+LOWER TCO
+Reduce IT expenses by as much as 40% to 60%, based on IDC research.
+FAST TIME TO VALUE
+Deploy and manage a complete infrastructure stack in minutes.
