@@ -7,9 +7,8 @@ import Grid from '@material-ui/core/Grid';
 import {
     withStyles,
     makeStyles,
-    withTheme,
   } from '@material-ui/core/styles';
-import strings from '../../localization/label';
+import strings from '../../../localization/label';
 
   const TextArea = withStyles({
     root: {
@@ -92,7 +91,7 @@ const DataEntryForm = ({setTextToCreateTag, data}) => {
                                       rows={10}
                                       rowsMax={10}
                                       fullWidth={true}
-                                      error={errors.data && touched.data && errors.data}
+                                      error={errors.data && touched.data}
                                       helperText={errors.data}
                                   />
                                   
